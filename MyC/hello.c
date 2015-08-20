@@ -8,4 +8,5 @@ int main()
    printf("This change is from my PC2\n");
    
    printf("This change is from my linux2\n");
+   printf("This change is from git reset --hard HEAD~3\n");
 }
